@@ -2,12 +2,10 @@
 
 > 小窝
 
-
-
 - 
 
 !
 
 ## 特别声明
 
-[QiXu](LICENSE.md)
+[MIT](LICENSE.md)
